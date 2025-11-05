@@ -194,14 +194,6 @@ By default, the image is centered, but you can specify the position by using one
   ```
   {: .nolineno}
 
-#### Dark/Light mode
-
-You can make images follow theme preferences in dark/light mode. This requires you to prepare two images, one for dark mode and one for light mode, and then assign them a specific class (`dark` or `light`):
-
-```markdown
-![Light mode only](/path/to/light-mode.png){: .light }
-![Dark mode only](/path/to/dark-mode.png){: .dark }
-```
 
 #### Shadow
 
